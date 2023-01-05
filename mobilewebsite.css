@@ -1,0 +1,12 @@
+.bgimg{
+	background-image: url('https://img.freepik.com/free-vector/digital-mobile-smartphone-technology-background-with-circuit-diagram_1017-21004.jpg?w=2000');
+	background-size: cover;
+	height: 100vh;
+}
+.layoutcard{
+	background-color: white;
+	height: 180px;
+	border-top-left-radius: 20px;
+	bprder-top-right-radius:20px;
+	padding: 20px;
+}

@@ -1,0 +1,33 @@
+.bgimg3{
+	background-image: url('https://images.rawpixel.com/image_600/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk2MC1uaW5nLTMwLmpwZw.jpg');
+	background-size:cover;
+	height: 200vh;
+}
+.headfirst{
+    color: white;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size:35px;
+    padding: 25px;
+}
+.bgcarouselcard{
+	background-color: white;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	margin:100px;
+	margin-top: 15px;
+} 
+.cardcon{
+	padding:20px;
+}
+.headsecond{
+	color: blue;
+	font-family: 'Roboto';
+	font-size: 20px;
+	font-weight: bold;
+}
+.paraline{
+	color:#fc03ba;
+	font-family: 'Roboto';
+	font-size: 13px;
+}

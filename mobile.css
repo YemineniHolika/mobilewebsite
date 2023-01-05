@@ -1,0 +1,33 @@
+.bgimg2{
+	background-image: url('https://img.freepik.com/free-vector/futuristic-science-lab-background_23-2148505015.jpg?w=2000');
+	background-size:cover;
+	height: 200vh;
+}
+.mobilehead{
+    color:white;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size:35px;
+    padding: 25px;
+}
+.layoutcard2{
+	background-color: white;
+	border-radius: 8px;
+	padding: 20px;
+	margin: 18px;
+}
+.brandsimg{
+	width: 120px;
+	height: 120px;
+}
+.brandshead{
+	color:#fc03ba;
+	font-family: 'Roboto';
+	font-weight: bold;
+	font-size:30px;
+}
+.brandspara{
+	color:darkgrey;
+	font-family:'Roboto';
+	font-size:15px; 
+}
